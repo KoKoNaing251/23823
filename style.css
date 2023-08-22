@@ -1,0 +1,45 @@
+.layer{
+    width: 350px;
+    height: 550px;
+    background-color: #faee1c;
+    border: 5px solid #22d1ee;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 15px;
+
+}
+
+
+
+.photo{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+}
+
+
+.letter{
+color:#1f4287;
+}
+ul{
+    display: block;
+}
+li{
+    display: inline-block;
+}
+li:hover{
+    background-color: red;
+  
+}
+
+.pp{border: 1px solid black;
+    width: 250px;
+    padding: 10px;
+    margin: 15px;
+    border-left-color: #22d1ee;
+border-end-end-radius: 5px;
+border-top-right-radius: 5px;
+border-left-width: 5px;}
+
